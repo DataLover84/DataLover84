@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DataLover84
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m I am nood yet
+- 💞️ I’m I am noob yet
 - 📫 How to reach me studboy4236@gmail.com
 
 <!---
